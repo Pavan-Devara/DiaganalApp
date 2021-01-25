@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/placeholder_for_missing_posters"
+        android:width="182dp"
+        android:height="272dp"
+        />
+</layer-list>
